@@ -1,1 +1,2 @@
-hola esto es un readme
+#Hola mundo
+Ejemplo de como usar git
